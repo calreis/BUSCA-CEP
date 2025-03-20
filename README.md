@@ -12,7 +12,7 @@ Fases da Criação e desenvolvimento.
 
 O script foi desenvolido utilizando orientação a objetos para criação das clases para os objetos da interface grafica usando o tkinter, a requisição a API foi feita utilizando a biblioteca requests para realizar a requisição HTTP.
 ![busca_cep](https://github.com/user-attachments/assets/08a1176e-5af9-42ca-87af-0afded982347)
-desc. programa em execução.
+                                                                     desc. programa em execução.
 
 Modo de Usar:
 
